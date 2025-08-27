@@ -1,0 +1,3 @@
+site,mean_abs_pct_error_vs_invoice,acceptance_met_<=5pct
+SITE_A,1.8806389068742373,True
+SITE_B,2.192719050704903,True
